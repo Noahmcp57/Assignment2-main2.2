@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 61fc38ec0f4c30442931f1fdb1a53ca1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7582110843820722200
+    second: Goblin enemy bright green sheet_0
+  - first:
+      213: -2380987201662091952
+    second: Goblin enemy bright green sheet_1
+  - first:
+      213: 3465837881374483740
+    second: Goblin enemy bright green sheet_2
+  - first:
+      213: 4775726937864062332
+    second: Goblin enemy bright green sheet_3
+  - first:
+      213: -2409917228040609158
+    second: Goblin enemy bright green sheet_4
+  - first:
+      213: 7918233555720100792
+    second: Goblin enemy bright green sheet_5
+  - first:
+      213: -1806992915369598370
+    second: Goblin enemy bright green sheet_6
+  - first:
+      213: 7491155469950598087
+    second: Goblin enemy bright green sheet_7
+  - first:
+      213: -7708819797126523481
+    second: Goblin enemy bright green sheet_8
+  - first:
+      213: 8838186908093540304
+    second: Goblin enemy bright green sheet_9
+  - first:
+      213: -5178593856828332854
+    second: Goblin enemy bright green sheet_10
+  - first:
+      213: 1918048593040721184
+    second: Goblin enemy bright green sheet_11
+  - first:
+      213: -4692668039827523542
+    second: Goblin enemy bright green sheet_12
+  - first:
+      213: -283922167500329847
+    second: Goblin enemy bright green sheet_13
+  - first:
+      213: -741230614187119231
+    second: Goblin enemy bright green sheet_14
+  - first:
+      213: 2107719072291729268
+    second: Goblin enemy bright green sheet_15
+  - first:
+      213: -4652489184863407278
+    second: Goblin enemy bright green sheet_16
+  - first:
+      213: 3789494325820255766
+    second: Goblin enemy bright green sheet_17
+  - first:
+      213: -9181428579412621513
+    second: Goblin enemy bright green sheet_18
+  - first:
+      213: -8120563177231236787
+    second: Goblin enemy bright green sheet_19
+  - first:
+      213: -1834804459649033584
+    second: Goblin enemy bright green sheet_20
+  - first:
+      213: 7774266580749590627
+    second: Goblin enemy bright green sheet_21
+  - first:
+      213: -3269086573179544406
+    second: Goblin enemy bright green sheet_22
+  - first:
+      213: 7405595038930257906
+    second: Goblin enemy bright green sheet_23
+  - first:
+      213: -739369933658535853
+    second: Goblin enemy bright green sheet_24
+  - first:
+      213: 8115257904736973938
+    second: Goblin enemy bright green sheet_25
+  - first:
+      213: -7346256319222933824
+    second: Goblin enemy bright green sheet_26
+  - first:
+      213: 3808151321406317127
+    second: Goblin enemy bright green sheet_27
+  - first:
+      213: 8534794661026515327
+    second: Goblin enemy bright green sheet_28
+  - first:
+      213: -212760910004195655
+    second: Goblin enemy bright green sheet_29
+  - first:
+      213: 1590204904137069935
+    second: Goblin enemy bright green sheet_30
+  - first:
+      213: 8370484191696707627
+    second: Goblin enemy bright green sheet_31
+  - first:
+      213: 3905336459158565793
+    second: Goblin enemy bright green sheet_32
+  - first:
+      213: 6946974476520192838
+    second: Goblin enemy bright green sheet_33
+  - first:
+      213: -4975638973993849586
+    second: Goblin enemy bright green sheet_34
+  - first:
+      213: -900952711410594130
+    second: Goblin enemy bright green sheet_35
+  - first:
+      213: -3902493135802287502
+    second: Goblin enemy bright green sheet_36
+  - first:
+      213: -2947378204326893980
+    second: Goblin enemy bright green sheet_37
+  - first:
+      213: -7287223180095185023
+    second: Goblin enemy bright green sheet_38
+  - first:
+      213: 1662607781639054688
+    second: Goblin enemy bright green sheet_39
+  - first:
+      213: -8794885896827246010
+    second: Goblin enemy bright green sheet_40
+  - first:
+      213: -1682490661106570977
+    second: Goblin enemy bright green sheet_41
+  - first:
+      213: 4501150627100418494
+    second: Goblin enemy bright green sheet_42
+  - first:
+      213: -1804695777050513719
+    second: Goblin enemy bright green sheet_43
+  - first:
+      213: 3379194779675889506
+    second: Goblin enemy bright green sheet_44
+  - first:
+      213: 939908179433811052
+    second: Goblin enemy bright green sheet_45
+  - first:
+      213: -7374191208368698067
+    second: Goblin enemy bright green sheet_46
+  - first:
+      213: -6118757561520477845
+    second: Goblin enemy bright green sheet_47
+  - first:
+      213: -6004616069538767284
+    second: Goblin enemy bright green sheet_48
+  - first:
+      213: -1789795966188573618
+    second: Goblin enemy bright green sheet_49
+  - first:
+      213: 901392951140807092
+    second: Goblin enemy bright green sheet_50
+  - first:
+      213: 1726533888028752810
+    second: Goblin enemy bright green sheet_51
+  - first:
+      213: -1891111839804818419
+    second: Goblin enemy bright green sheet_52
+  - first:
+      213: -9201398182259122949
+    second: Goblin enemy bright green sheet_53
+  - first:
+      213: -4429852488240064909
+    second: Goblin enemy bright green sheet_54
+  - first:
+      213: -1028118782428010382
+    second: Goblin enemy bright green sheet_55
+  - first:
+      213: -7683826797627000430
+    second: Goblin enemy bright green sheet_56
+  - first:
+      213: -2691343628559226725
+    second: Goblin enemy bright green sheet_57
+  - first:
+      213: 7206723390967438704
+    second: Goblin enemy bright green sheet_58
+  - first:
+      213: -3449984658504808971
+    second: Goblin enemy bright green sheet_59
+  - first:
+      213: 5174286288489462844
+    second: Goblin enemy bright green sheet_60
+  - first:
+      213: -4529555587480971648
+    second: Goblin enemy bright green sheet_61
+  - first:
+      213: -8684137664312456082
+    second: Goblin enemy bright green sheet_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818429504a1193960800000000000000
+      internalID: 7582110843820722200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 576
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dfd2e41c805fed0800000000000000
+      internalID: -2380987201662091952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 576
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c152b68b031291030800000000000000
+      internalID: 3465837881374483740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 575
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75c6abd85ac64240800000000000000
+      internalID: 4775726937864062332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 575
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ab84ac014e8ed0800000000000000
+      internalID: -2409917228040609158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 575
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5641677733ed60800000000000000
+      internalID: 7918233555720100792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 512
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e526fbf64854ce6e0800000000000000
+      internalID: -1806992915369598370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 512
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb31a7c53ee5f760800000000000000
+      internalID: 7491155469950598087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 511
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a556c2dc35c40590800000000000000
+      internalID: -7708819797126523481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 511
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d76c6b8a2c87aa70800000000000000
+      internalID: 8838186908093540304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 511
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42ab71350f128b0800000000000000
+      internalID: -5178593856828332854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 511
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025412a78074e9a10800000000000000
+      internalID: 1918048593040721184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 447
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a287045d74b40eeb0800000000000000
+      internalID: -4692668039827523542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 447
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca84efa4e4f0cf0800000000000000
+      internalID: -283922167500329847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 447
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d6bb00fae96b5f0800000000000000
+      internalID: -741230614187119231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 447
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa34e345f104d10800000000000000
+      internalID: 2107719072291729268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 447
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253bede7cb90f6fb0800000000000000
+      internalID: -4652489184863407278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 447
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eefd0030df69430800000000000000
+      internalID: 3789494325820255766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737cd713a53059080800000000000000
+      internalID: -9181428579412621513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 383
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41c30d90d6fd4f80800000000000000
+      internalID: -8120563177231236787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 383
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a115ea0177986e0800000000000000
+      internalID: -1834804459649033584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 383
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36025cee34eb3eb60800000000000000
+      internalID: 7774266580749590627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 383
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac52a1051fd1a2d0800000000000000
+      internalID: -3269086573179544406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 383
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f745dd8375f5c660800000000000000
+      internalID: 7405595038930257906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 319
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358cda276fa3db5f0800000000000000
+      internalID: -739369933658535853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 319
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274378061103f9070800000000000000
+      internalID: 8115257904736973938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 319
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c69fbfbccadc0a90800000000000000
+      internalID: -7346256319222933824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 319
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ab5b437549d430800000000000000
+      internalID: 3808151321406317127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 319
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79c261668ea17670800000000000000
+      internalID: 8534794661026515327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 319
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6c11641f1c0df0800000000000000
+      internalID: -212760910004195655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 232
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f659c2f5fea811610800000000000000
+      internalID: 1590204904137069935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 255
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ea1c060fe92470800000000000000
+      internalID: 8370484191696707627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 255
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3378871da823630800000000000000
+      internalID: 3905336459158565793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 255
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bf0b0da7c986060800000000000000
+      internalID: 6946974476520192838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 255
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de18817baf2fab0800000000000000
+      internalID: -4975638973993849586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 255
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae42fc484c2f73f0800000000000000
+      internalID: -900952711410594130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aba165b2f87d9c0800000000000000
+      internalID: -3902493135802287502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_37
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 191
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466ed58932fc817d0800000000000000
+      internalID: -2947378204326893980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 191
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f1f6780259eda90800000000000000
+      internalID: -7287223180095185023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_39
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 191
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0656561f7f4c21710800000000000000
+      internalID: 1662607781639054688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_40
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 191
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ae487cfd942f580800000000000000
+      internalID: -8794885896827246010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_41
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 191
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19a4de68a796a8e0800000000000000
+      internalID: -1682490661106570977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e8d0b5ac477e30800000000000000
+      internalID: 4501150627100418494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 133
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cea141a0ce64f6e0800000000000000
+      internalID: -1804695777050513719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 127
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8f659fbf45ee20800000000000000
+      internalID: 3379194779675889506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_45
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 127
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce2a462893b0d00800000000000000
+      internalID: 939908179433811052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_46
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 127
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d00678a2c99a990800000000000000
+      internalID: -7374191208368698067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 127
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6926d69a6ec51ba0800000000000000
+      internalID: -6118757561520477845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e1a82af715baca0800000000000000
+      internalID: -6004616069538767284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c27ee2d0e5927e0800000000000000
+      internalID: -1789795966188573618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 63
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f9cffc14628c00800000000000000
+      internalID: 901392951140807092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb0a07c61e5f710800000000000000
+      internalID: 1726533888028752810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_52
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf5ed1dcb61c5e0800000000000000
+      internalID: -1891111839804818419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc1585ba111e4080800000000000000
+      internalID: -9201398182259122949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_54
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 66
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376121fd1a00682c0800000000000000
+      internalID: -4429852488240064909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 63
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a8722a636bb1f0800000000000000
+      internalID: -1028118782428010382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 63
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b0dbfc309d5590800000000000000
+      internalID: -7683826797627000430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_57
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 63
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98673baa3d66aad0800000000000000
+      internalID: -2691343628559226725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_58
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 63
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ddc11cdbc630460800000000000000
+      internalID: 7206723390967438704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5064d5b313f10d0800000000000000
+      internalID: -3449984658504808971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cb69ff6f1cec740800000000000000
+      internalID: 5174286288489462844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_61
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 72
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869fc91139c321c0800000000000000
+      internalID: -4529555587480971648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin enemy bright green sheet_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc01a0ecebb7780800000000000000
+      internalID: -8684137664312456082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1600720fdb174c47953e8fc30015739
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Goblin enemy bright green sheet_10: -5178593856828332854
+      Goblin enemy bright green sheet_11: 1918048593040721184
+      Goblin enemy bright green sheet_12: -4692668039827523542
+      Goblin enemy bright green sheet_13: -283922167500329847
+      Goblin enemy bright green sheet_14: -741230614187119231
+      Goblin enemy bright green sheet_15: 2107719072291729268
+      Goblin enemy bright green sheet_16: -4652489184863407278
+      Goblin enemy bright green sheet_17: 3789494325820255766
+      Goblin enemy bright green sheet_18: -9181428579412621513
+      Goblin enemy bright green sheet_19: -8120563177231236787
+      Goblin enemy bright green sheet_20: -1834804459649033584
+      Goblin enemy bright green sheet_21: 7774266580749590627
+      Goblin enemy bright green sheet_22: -3269086573179544406
+      Goblin enemy bright green sheet_23: 7405595038930257906
+      Goblin enemy bright green sheet_24: -739369933658535853
+      Goblin enemy bright green sheet_25: 8115257904736973938
+      Goblin enemy bright green sheet_26: -7346256319222933824
+      Goblin enemy bright green sheet_27: 3808151321406317127
+      Goblin enemy bright green sheet_28: 8534794661026515327
+      Goblin enemy bright green sheet_29: -212760910004195655
+      Goblin enemy bright green sheet_30: 1590204904137069935
+      Goblin enemy bright green sheet_31: 8370484191696707627
+      Goblin enemy bright green sheet_32: 3905336459158565793
+      Goblin enemy bright green sheet_33: 6946974476520192838
+      Goblin enemy bright green sheet_34: -4975638973993849586
+      Goblin enemy bright green sheet_35: -900952711410594130
+      Goblin enemy bright green sheet_36: -3902493135802287502
+      Goblin enemy bright green sheet_37: -2947378204326893980
+      Goblin enemy bright green sheet_38: -7287223180095185023
+      Goblin enemy bright green sheet_39: 1662607781639054688
+      Goblin enemy bright green sheet_40: -8794885896827246010
+      Goblin enemy bright green sheet_41: -1682490661106570977
+      Goblin enemy bright green sheet_42: 4501150627100418494
+      Goblin enemy bright green sheet_43: -1804695777050513719
+      Goblin enemy bright green sheet_44: 3379194779675889506
+      Goblin enemy bright green sheet_45: 939908179433811052
+      Goblin enemy bright green sheet_46: -7374191208368698067
+      Goblin enemy bright green sheet_47: -6118757561520477845
+      Goblin enemy bright green sheet_48: -6004616069538767284
+      Goblin enemy bright green sheet_49: -1789795966188573618
+      Goblin enemy bright green sheet_50: 901392951140807092
+      Goblin enemy bright green sheet_51: 1726533888028752810
+      Goblin enemy bright green sheet_52: -1891111839804818419
+      Goblin enemy bright green sheet_53: -9201398182259122949
+      Goblin enemy bright green sheet_54: -4429852488240064909
+      Goblin enemy bright green sheet_55: -1028118782428010382
+      Goblin enemy bright green sheet_56: -7683826797627000430
+      Goblin enemy bright green sheet_57: -2691343628559226725
+      Goblin enemy bright green sheet_58: 7206723390967438704
+      Goblin enemy bright green sheet_59: -3449984658504808971
+      Goblin enemy bright green sheet_6: -1806992915369598370
+      Goblin enemy bright green sheet_60: 5174286288489462844
+      Goblin enemy bright green sheet_61: -4529555587480971648
+      Goblin enemy bright green sheet_62: -8684137664312456082
+      Goblin enemy bright green sheet_7: 7491155469950598087
+      Goblin enemy bright green sheet_8: -7708819797126523481
+      Goblin enemy bright green sheet_9: 8838186908093540304
+      Walk1: 7582110843820722200
+      Walk2: -2380987201662091952
+      Walk3: 3465837881374483740
+      Walk4: 4775726937864062332
+      Walk5: -2409917228040609158
+      Walk6: 7918233555720100792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
